@@ -1,4 +1,4 @@
-# term.js
+# term.js 
 
 A full xterm clone written in javascript. Used by
 [**tty.js**](https://github.com/chjj/tty.js).
